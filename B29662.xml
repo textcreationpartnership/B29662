@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several copies of verses on the death of Mr. Abraham Cowley and his burial in Westminster Abbey</title>
+            <author>Orrery, Roger Boyle, Earl of, 1621-1679.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29662</idno><idno type="EEBO-CITATION">17199409</idno>
+  <idno type="VID">206386</idno>
+  <idno type="EEBO-PROQUEST">2240854194</idno>
+  
+            <idno type="STC">Wing S2758</idno>
+            <idno type="OCLC">17199409</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29662)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 206386)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1622:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several copies of verses on the death of Mr. Abraham Cowley and his burial in Westminster Abbey</title>
+                  <author>Orrery, Roger Boyle, Earl of, 1621-1679.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Herringman ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: Orrery.</note>
+                  <note>Imprint form colophon.</note>
+                  <note>Reproduction of original in Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cowley, Abraham, 1618-1667 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:206386:1"/>
+            <pb n="1" facs="tcp:206386:1"/>
+            <head>SEVERAL COPIES OF VERSES ON THE DEATH OF M<seg rend="sup">r.</seg> ABRAHAM COWLEY And his Burial in WESTMINSTER ABBEY.</head>
+            <lg>
+               <l>OUR wit, till <hi>Cowley</hi> did its lustre raise,</l>
+               <l>May be resembled to the first three daies,</l>
+               <l>In which did shine only such streaks of light</l>
+               <l>As serv'd but to distinguish Day from Night:</l>
+               <l>But wit breaks forth, in all that he has done,</l>
+               <l>Like Light when 'twas united in the Sun.</l>
+            </lg>
+            <lg>
+               <l>The Poets formerly did lye in wait</l>
+               <l>To rifle those whom they would imitate:</l>
+               <l>We Watcht to rob all strangers when they writ,</l>
+               <l>And learnt their Language but to steal their Wit.</l>
+               <l>He from that need his Country does redeem,</l>
+               <l>Since those who want may be supply'd from him;</l>
+               <l>And Forreign Nations now may borrow more</l>
+               <l>From <hi>Cowley</hi> than we could from them before:</l>
+               <l>Who though he condescended to admit</l>
+               <l>The <hi>Greeks</hi> and <hi>Romans</hi> for his Guides in Wit</l>
+               <pb n="2" facs="tcp:206386:2"/>
+               <l>Yet he those ancient Poets does pursue</l>
+               <l>But as the <hi>Spaniards</hi> great <hi>Columbus</hi> do;</l>
+               <l>He taught them first to the New World to steer,</l>
+               <l>But they possess all that is precious there.</l>
+            </lg>
+            <lg>
+               <l>When first his spring of wit began to flow,</l>
+               <l>It rais'd in some, wonder and sorrow too,</l>
+               <l>That God had so much wit and knowledge lent,</l>
+               <l>And that they were not in his praises spent.</l>
+            </lg>
+            <lg>
+               <l>But those who in his <hi>Davideis</hi> look,</l>
+               <l>Find they his <hi>Blossoms</hi> for his <hi>Fruit</hi> mistook:</l>
+               <l>In diff'ring Ages diff'rent Muses shin'd,</l>
+               <l>His Green did charm the Sense, his Ripe the Mind.</l>
+               <l>Writing for Heaven he was inspir'd from thence,</l>
+               <l>And from his Theam deriv'd his influence.</l>
+               <l>The Scripture will no more the wicked fright;</l>
+               <l>His Muse does make Religion a delight.</l>
+            </lg>
+            <lg>
+               <l>Oh how severely Man is us'd by Fate!</l>
+               <l>The covetous toil long for an Estate;</l>
+               <l>And having got more than their life can spend,</l>
+               <l>They may bequeath it to a Son or Friend:</l>
+               <l>But Learning (in which none can have a share,</l>
+               <l>Unless they climb to it by time and care,</l>
+               <pb n="3" facs="tcp:206386:3"/>
+               <l>Learning, the truest wealth which man can have)</l>
+               <l>Does, with his Body, perish in his Grave:</l>
+               <l>To Tenements of Clay it is confin'd,</l>
+               <l>Though 'tis the noblest purchase of the mind:</l>
+               <l>Oh why can we thus leave our friends possest</l>
+               <l>Of all our acquisitions but the best?</l>
+            </lg>
+            <lg>
+               <l>Still when we study <hi>Cowley</hi> we lament,</l>
+               <l>That to the world he was no longer lent;</l>
+               <l>Who, like a Lightning, to our eyes was shown,</l>
+               <l>So bright he shin'd and was so quickly gone.</l>
+               <l>Sure he rejoic'd to see his flame expire,</l>
+               <l>Since he himself could not have rais'd it higher;</l>
+               <l>For when wise Poets can no higher flie,</l>
+               <l>They would, like Saints, in their perfection die.</l>
+            </lg>
+            <lg>
+               <l>Though beauty some affection in him bred,</l>
+               <l>Yet only sacred Learning he would wed;</l>
+               <l>By which th'illustrious off-spring of his brain</l>
+               <l>Shall over Wits great Empire ever reign:</l>
+               <l>His works shall live, when Pyramids of Pride</l>
+               <l>Shrink to such ashes as they long did hide.</l>
+            </lg>
+            <lg>
+               <l>That sacrilegious Fire (which did last year</l>
+               <l>Level those Pil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s which Piety did rear)</l>
+               <pb n="4" facs="tcp:206386:4"/>
+               <l>Dreaded neer that majestick Church to flye</l>
+               <l>Where English Kings and English Poets lye:</l>
+               <l>It at an awful distance did expire,</l>
+               <l>Such pow'r had sacred Ashes o're that Fire;</l>
+               <l>Such as it durst not neer that Structure come</l>
+               <l>Which Fate had order'd to be <hi>Cowley</hi>'s Tomb;</l>
+               <l>And 'twill be still preserv'd, by being so,</l>
+               <l>From what the rage of future Flames can do.</l>
+               <l>Material Fire dares not that place infest</l>
+               <l>Where he who had immortal flame does rest.</l>
+            </lg>
+            <lg>
+               <l>There let his Urn remain; for it was fit</l>
+               <l>Amongst our Kings to lay the King of wit:</l>
+               <l>By which the Structure more renown'd will prove</l>
+               <l>For that part bury'd than for all above.</l>
+            </lg>
+            <closer>
+               <signed>ORRERY.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>H. Herringman,</hi> at the Blew Anchor in the Lower-walk of the New Exchange. 1667.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
